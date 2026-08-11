@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm Tahseen Ashrafi
@@ -149,13 +148,13 @@ I'm continuously experimenting with new ideas across:
 
 # 🎯 What I'm Working On
 
-```text
+
 Software Engineering   ███████████████████░   Building
 Data Science            ███████████████░░░░░   Learning
 Machine Learning        ████████████░░░░░░░░   Exploring
 UI / UX                 ██████████████░░░░░░   Improving
 Open Source             ██████████░░░░░░░░░░   Growing
-````
+
 
 ---
 
@@ -200,4 +199,4 @@ open-source projects and opportunities to build something useful.
 **Thanks for visiting my profile. 🚀**
 
 </div>
-```
+
