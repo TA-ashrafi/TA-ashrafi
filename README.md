@@ -1,128 +1,110 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Tahseen Ashrafi
+# Tahseen Ashrafi
 
-### Software Engineer • Data Science Enthusiast • Full-Stack Developer
+### Software Engineer · Data Science · Full-Stack Development
 
-Building practical software, exploring data, and turning ideas into useful products.
+Building software, working with data, and turning ideas into practical products.
 
-<p>
-  <a href="https://github.com/TA-ashrafi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tahseenashrafi29">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[GitHub](https://github.com/TA-ashrafi) ·
+[LinkedIn](https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/) ·
+[Instagram](https://instagram.com/tahseenashrafi29)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a developer interested in building **real-world software products** and working with **data-driven solutions**.
+I'm a software engineer interested in building reliable applications and exploring data-driven systems.
 
-- 💻 Focused on **Software Engineering & Full-Stack Development**
-- 📊 Exploring **Data Science, Machine Learning & AI**
-- 🧠 Interested in solving real-world problems with technology
-- ⚡ I enjoy turning ideas into functional, polished applications
-- 🎨 I care about both **engineering and user experience**
-- 🔭 Currently building and experimenting with new projects
-- 📍 Based in India
+My primary interests are:
 
----
+- Software Engineering
+- Full-Stack Web Development
+- Data Science & Machine Learning
+- Automation and developer tools
+- Clean UI and practical product design
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,php" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
-</p>
-
-### 📊 Data Science & AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" />
-</p>
-
-### ⚙️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode" />
-</p>
+Currently learning, building, breaking things, and rebuilding them better.
 
 ---
 
-# 🌟 Featured Projects
+## Tech Stack
 
-> A selection of projects I'm building and experimenting with.
+### Languages
 
-### 🏋️ Gym Management System
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,php" />
+</p>
 
-A modern gym management platform designed to handle members, attendance, expenses, schedules, reports and other day-to-day gym operations.
+### Web
 
-**Tech:** React • TypeScript • Node.js • Database • Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
+</p>
 
-🔗 [View Project](#)
+### Data & ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode" />
+</p>
 
 ---
 
-### 📊 Data Science & Machine Learning
+## Selected Projects
 
-Projects focused on exploring datasets, extracting meaningful insights and experimenting with machine-learning models.
+### Gym Management System
 
-**Tech:** Python • Pandas • NumPy • Scikit-Learn • PyTorch
+A full-stack management platform designed for real-world gym operations.
 
-🔗 [View Projects](https://github.com/TA-ashrafi?tab=repositories)
+Features include member management, attendance tracking, expenses,
+schedules, reports and administrative tools.
 
----
+React TypeScript Node.js Database Vercel
 
-### 🧩 More Projects
-
-I'm continuously experimenting with new ideas across:
-
-- Full-Stack Web Applications
-- Data Analysis
-- Machine Learning
-- Automation
-- Developer Tools
-- IoT & Hardware Projects
-
-🔗 [Explore All Repositories](https://github.com/TA-ashrafi?tab=repositories)
+[View Repository](https://github.com/TA-ashrafi)
 
 ---
 
-# 📈 GitHub Activity
+### Data Science & Machine Learning
+
+Experiments and projects focused on data analysis, visualization,
+machine learning and extracting useful insights from real datasets.
+
+Python  Pandas NumPy Scikit-Learn PyTorch
+
+[View Repositories](https://github.com/TA-ashrafi?tab=repositories)
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TA-ashrafi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TA-ashrafi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA-ashrafi&layout=compact&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA-ashrafi&layout=compact&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
@@ -136,57 +118,51 @@ I'm continuously experimenting with new ideas across:
 
 ---
 
-# 📊 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
-[![Tahseen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TA-ashrafi&hide_border=true&area=true)](https://github.com/TA-ashrafi)
+[![Tahseen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TA-ashrafi&hide_border=true&area=true)](https://github.com/TA-ashrafi)
 
 </div>
 
 ---
 
-# 🎯 What I'm Working On
+## Current Focus
 
 
-Software Engineering   ███████████████████░   Building
-Data Science            ███████████████░░░░░   Learning
-Machine Learning        ████████████░░░░░░░░   Exploring
-UI / UX                 ██████████████░░░░░░   Improving
-Open Source             ██████████░░░░░░░░░░   Growing
+Software Engineering    ████████████████████
+Full-Stack Development  ██████████████████░░
+Data Science             ███████████████░░░░░
+Machine Learning         ████████████░░░░░░░░
+System Design            ██████████░░░░░░░░░░
 
 
 ---
 
-# 💡 My Development Philosophy
+## Philosophy
 
-> Build things that solve real problems.
 
-I believe good software is not just about writing code.
+Build.
+Break.
+Understand.
+Improve.
+Repeat.
 
-It's about understanding the problem, designing a clean solution,
-building something reliable, and continuously improving it.
+I prefer building things that solve actual problems over
+building projects just for the sake of having another project.
 
 ---
 
-# 🤝 Let's Connect
+## Contact
 
-I'm always interested in interesting ideas, collaborations,
-open-source projects and opportunities to build something useful.
+Interested in collaborating, building something useful,
+or discussing software and data?
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/TA-ashrafi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/tahseenashrafi29">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/)
+[![GitHub](https://img.shields.io/badge/GitHub-TA--ashrafi-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/TA-ashrafi)
 
 </div>
 
@@ -194,9 +170,7 @@ open-source projects and opportunities to build something useful.
 
 <div align="center">
 
-### ⭐ If you find something useful here, consider giving it a star!
-
-**Thanks for visiting my profile. 🚀**
+// Keep building.`
 
 </div>
 
