@@ -1,20 +1,203 @@
-<h1 align="center">Hi 👋, I'm Tahseen Ashrafi</h1>
-<h3 align="center">A passionate froData Scientist & Software Engineer | ADCE Student | Delhi, Indiantend developer from India</h3>
+````markdown
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/" height="30" width="40" /></a>
-<a href="https://instagram.com/tahseenashrafi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahseenashrafi29" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/theperfectgamer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/theperfectgamer1" height="30" width="40" /></a>
+# 👋 Hi, I'm Tahseen Ashrafi
+
+### Software Engineer • Data Science Enthusiast • Full-Stack Developer
+
+Building practical software, exploring data, and turning ideas into useful products.
+
+<p>
+  <a href="https://github.com/TA-ashrafi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tahseenashrafi29">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me a coffe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffe" /></a></p><br><br>
+## 🚀 About Me
 
+I'm a developer interested in building **real-world software products** and working with **data-driven solutions**.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ta-ashrafi&show_icons=true&locale=en&layout=compact" alt="ta-ashrafi" /></p>
+- 💻 Focused on **Software Engineering & Full-Stack Development**
+- 📊 Exploring **Data Science, Machine Learning & AI**
+- 🧠 Interested in solving real-world problems with technology
+- ⚡ I enjoy turning ideas into functional, polished applications
+- 🎨 I care about both **engineering and user experience**
+- 🔭 Currently building and experimenting with new projects
+- 📍 Based in India
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,cs,php" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
+</p>
+
+### 📊 Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws" />
+</p>
+
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+> A selection of projects I'm building and experimenting with.
+
+### 🏋️ Gym Management System
+
+A modern gym management platform designed to handle members, attendance, expenses, schedules, reports and other day-to-day gym operations.
+
+**Tech:** React • TypeScript • Node.js • Database • Vercel
+
+🔗 [View Project](#)
+
+---
+
+### 📊 Data Science & Machine Learning
+
+Projects focused on exploring datasets, extracting meaningful insights and experimenting with machine-learning models.
+
+**Tech:** Python • Pandas • NumPy • Scikit-Learn • PyTorch
+
+🔗 [View Projects](https://github.com/TA-ashrafi?tab=repositories)
+
+---
+
+### 🧩 More Projects
+
+I'm continuously experimenting with new ideas across:
+
+- Full-Stack Web Applications
+- Data Analysis
+- Machine Learning
+- Automation
+- Developer Tools
+- IoT & Hardware Projects
+
+🔗 [Explore All Repositories](https://github.com/TA-ashrafi?tab=repositories)
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TA-ashrafi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TA-ashrafi&layout=compact&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TA-ashrafi&hide_border=true" />
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+[![Tahseen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TA-ashrafi&hide_border=true&area=true)](https://github.com/TA-ashrafi)
+
+</div>
+
+---
+
+# 🎯 What I'm Working On
+
+```text
+Software Engineering   ███████████████████░   Building
+Data Science            ███████████████░░░░░   Learning
+Machine Learning        ████████████░░░░░░░░   Exploring
+UI / UX                 ██████████████░░░░░░   Improving
+Open Source             ██████████░░░░░░░░░░   Growing
+````
+
+---
+
+# 💡 My Development Philosophy
+
+> Build things that solve real problems.
+
+I believe good software is not just about writing code.
+
+It's about understanding the problem, designing a clean solution,
+building something reliable, and continuously improving it.
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in interesting ideas, collaborations,
+open-source projects and opportunities to build something useful.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tahseen-ashrafi-489a4825a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/TA-ashrafi">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/tahseenashrafi29">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find something useful here, consider giving it a star!
+
+**Thanks for visiting my profile. 🚀**
+
+</div>
+```
